@@ -1,0 +1,29 @@
+Individual weights
+====================
+
+Lexical Relevance
+====================
+Code Clone Weight: 460.8358
+Cosine Similarity Weight: 78.506
+
+Structural Relevance
+====================
+API Object Match (AOM) Weight: 1.4526
+Field Access Match (FAM) Weight: 7.8486
+Method Invocation Match (MIM) Weight: 1.5182
+Data Dependency Match (DDM) Weight: .8389
+
+Handler Quality
+================
+Readability (R) Weight: .6704
+Average Handler Action (AHA) Weight: 1.134
+Handler to Code Ratio (HCR) Weight: 2.4083
+
+All relevance and quality subtotal scores are normalized between 0 to 1 after calculation.
+
+
+Subtotal Metric Weights
+=========================
+Lexical Relevance Weight: 1.0152
+Structural Relevance Weight: 1.2787
+Handler Quality Weight: 1.1588

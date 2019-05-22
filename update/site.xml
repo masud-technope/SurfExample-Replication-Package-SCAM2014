@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/SurfExampleFeat_1.0.0.201403171523.jar" id="SurfExampleFeat" version="1.0.0.201403171523">
+      <category name="SurfExample"/>
+   </feature>
+   <category-def name="SurfExample" label="SurfExample">
+      <description>
+         IDE-Based Code Search Engine
+      </description>
+   </category-def>
+</site>
